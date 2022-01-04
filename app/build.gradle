@@ -42,5 +42,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     //WalletConnect
-    implementation 'com.github.WalletConnect:kotlin-walletconnect-lib:0.9.6'
+    implementation "com.github.WalletConnect:WalletConnectKotlinV2:1.0.0-beta01"
 }
